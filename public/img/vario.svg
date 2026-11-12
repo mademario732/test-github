@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" width="300" height="180">
+  <rect width="300" height="180" fill="#eef1f5"/>
+  <ellipse cx="150" cy="160" rx="118" ry="7" fill="#000" opacity="0.12"/>
+  <!-- bodi belakang -->
+  <path d="M40 116 C40 86 62 70 98 70 L150 70 L150 100 L106 104 C98 112 94 120 90 128 Z" fill="#212529"/>
+  <!-- jok -->
+  <rect x="90" y="58" width="68" height="14" rx="7" fill="#343a40"/>
+  <!-- pijakan kaki -->
+  <rect x="140" y="108" width="72" height="10" rx="5" fill="#495057"/>
+  <!-- bodi depan -->
+  <path d="M198 120 L194 72 Q194 52 212 50 L230 54 L224 120 Z" fill="#343a40"/>
+  <!-- garpu depan -->
+  <line x1="222" y1="76" x2="234" y2="128" stroke="#868e96" stroke-width="6" stroke-linecap="round"/>
+  <!-- stang -->
+  <rect x="196" y="38" width="38" height="8" rx="4" fill="#212529"/>
+  <!-- lampu -->
+  <circle cx="232" cy="64" r="6" fill="#ffe066"/>
+  <!-- roda belakang -->
+  <circle cx="70" cy="128" r="30" fill="#212529"/>
+  <circle cx="70" cy="128" r="14" fill="#adb5bd"/>
+  <circle cx="70" cy="128" r="5" fill="#212529"/>
+  <!-- roda depan -->
+  <circle cx="234" cy="128" r="30" fill="#212529"/>
+  <circle cx="234" cy="128" r="14" fill="#adb5bd"/>
+  <circle cx="234" cy="128" r="5" fill="#212529"/>
+  <text x="150" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#212529">Honda Vario 160</text>
+  <text x="150" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#6c757d">foto contoh</text>
+</svg>
