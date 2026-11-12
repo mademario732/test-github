@@ -13,3 +13,5 @@ function e($teks)
 {
     return htmlspecialchars((string) $teks, ENT_QUOTES, 'UTF-8');
 }
+ test ini kode baru
+ 
